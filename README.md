@@ -4,6 +4,8 @@
 受到Epic的热烈影响，我们也要造轮子，我们决定从零开始写一个RealTimeStrategy游戏引擎，i like coding纯属娱乐。
 
 一features
+
+
 1根据heightmap自动生成地图，自动添加地图物品；地图支持草地，雪地，山地多种地形；支持敌我视图控制以及战争迷雾视野。
 
 
