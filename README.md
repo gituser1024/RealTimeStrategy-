@@ -20,6 +20,9 @@
 
 5支持directx11
 
+6多线程渲染，按材质分类渲染
+
+
 二in planning
 
 
@@ -33,3 +36,4 @@
 
 
 ![rts](rts_init.png)
+![多线程渲染](rts-1.png)
